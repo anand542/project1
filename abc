@@ -1,0 +1,12 @@
+THEORY:
+In any activity which requires routing and delivery, addressing schemes are of vital importance.
+In data communications networks, it is the Network Layer’s task to ensure end-to-end packet
+routing and delivery – meaning a source is able to reach and send messages to a particular
+destination, and vice-versa. Different protocols, pertaining to different addressing schemes,
+under the Network Layer are available.
+Each of which consists of different features corresponding to different technologies involved in a
+data network. Common data network protocols are tabulated below:
+Common Network Protocols
+Protocol
+Internet Protocol version 4 (IPv4)
+Internet Protocol version 6
